@@ -59,7 +59,7 @@ dan kalo mengaktifkan
 
 Ketik 
 
-$ cd zxbotv1
+$ cd BOT-MTK
 
 $ node index.js
 
