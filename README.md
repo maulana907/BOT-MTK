@@ -13,7 +13,7 @@
 
 
 
-- 👥 Subscribe channel kami [`YOUTUBE`](https://youtube.com/channel/UC0adT-_E44gWb9DhnWWPC8g
+- 👥 Subscribe channel kami [`YOUTUBE`](https://www.youtube.com/channel/UCFCV9EwkGpkoF6U5ZM1UOEQ
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
 
 
