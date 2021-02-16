@@ -41,9 +41,9 @@ $ pkg install ffmpeg
 
 $ pkg install npm 
 
-$ git clone https://github.com/maulana907/zxbotv1
+$ git clone https://github.com/maulana907/BOT-MTK
 
-$ cd zxbot1
+$ cd BOT-MTK
 
 $ bash install.sh
 
